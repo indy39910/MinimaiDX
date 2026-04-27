@@ -11,10 +11,10 @@ These are older photos not yet using the Pi Pico, the newer version has a smalle
 
 Features
 - Adaptable to various sized tabets
-- Minimal hardware needed (no pcbs)
+- Minimal hardware needed (no pcbs needed)
 - Very cheap to make
 - No screws required at all
-- Filament is used as hinges
+- Cut filament is used as hinges
 
 Material list
 - 30 AWG wire
@@ -24,7 +24,7 @@ Material list
 
 Notes
 - Basic soldering skills are needed (this was my first time soldering in a project)
-- a 3d printer is needed (preferibly with a print area of 220x220 or larger)
+- a 3d printer is needed (preferibly with a print area of 220mmx220mm or larger)
 - a working tablet that supports usb host mode (if not a OTG adapter will be required)
 - Most likely will need to modify some of my CAD files to make the mounting clips fit your tablet 
 - i'll be honest this project is fundimentally super simple but i spent way too long trying to perfect as many things as i could. However, I am a student can do mediocre CAD at best so if you want to scale up/down the CAD files to fit your tabet size you **will** need to edit the slots for the switches and holes for hinges
