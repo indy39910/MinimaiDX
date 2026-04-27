@@ -12,6 +12,7 @@ Features
 - Minimal hardware needed (no pcbs)
 - Very cheap to make
 - No screws required at all
+- Filament is used as hinges
 
 Material list
 - 30 AWG wire
