@@ -45,7 +45,7 @@ This is a personal project I did on my own time without any endorsement, i will 
 
 
 # Build guide here
-(Build guide.md)
+[read the build guide](Build guide.md)
 
 
 
