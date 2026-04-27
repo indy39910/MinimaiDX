@@ -45,7 +45,7 @@ This is a personal project I did on my own time without any endorsement, i will 
 
 
 # Build guide here
-[read the build guide][(Build guide.md)](https://github.com/osume-code/MinimaiDX/blob/main/Build%20guide.md)
+[read the build guide][(Build%20guide.md)
 
 
 
