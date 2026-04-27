@@ -44,7 +44,8 @@ Discord username - invisble.
 This is a personal project I did on my own time without any endorsement, i will continue to listen to feedback and potentially improve this project. I try my best to ensure everything is working and accurate. However, mistakes may occour I cannot be held responsible for any loss of your time or money that may result from using this project. Thank you for your understanding.
 
 
-
+# Build guide here
+(Build guide.md)
 
 
 
