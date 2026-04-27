@@ -44,10 +44,7 @@ Discord username - invisble.
 This is a personal project I did on my own time without any endorsement, i will continue to listen to feedback and potentially improve this project. I try my best to ensure everything is working and accurate. However, mistakes may occour I cannot be held responsible for any loss of your time or money that may result from using this project. Thank you for your understanding.
 
 
-# Build Guide
 
-Firstly we need to determine the size/play area of your tablet (mine is about 163mm) to do this open up AstroDX and load up a chart, then measure the diameter of the play circle. You may be able to adjust the play area size in settings to match mine in order to not need any CAD modifications
-<img width="1600" height="216" alt="playareasize" src="https://github.com/user-attachments/assets/7b787b46-7339-40ff-ac15-77d6b93edda4" />
 
 
 
