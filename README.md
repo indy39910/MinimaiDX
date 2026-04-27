@@ -1,6 +1,12 @@
 # MinimaiDX
 ### 8 Button AstroDX controller for tablet-sized devices using keyboard inputs
 
+<img width="1600" height="1280" alt="WhatsApp Image 2026-04-27 at 14 43 16 (1)" src="https://github.com/user-attachments/assets/066b46a7-9b18-43fa-b69f-c212d9bad321" />
+<img width="1600" height="1280" alt="WhatsApp Image 2026-04-27 at 14 43 16 (2)" src="https://github.com/user-attachments/assets/3828a0d2-582c-4cd8-b160-8d43528486ad" />
+<img width="1600" height="1280" alt="WhatsApp Image 2026-04-27 at 14 43 17 (1)" src="https://github.com/user-attachments/assets/dc0c6697-9cc0-4285-a48f-895b6eadeff8" />
+<img width="1399" height="1119" alt="WhatsApp Image 2026-04-27 at 14 43 16" src="https://github.com/user-attachments/assets/399f73be-62b6-4677-a981-c8b11a619bf3" />
+
+
 Features
 - Adaptable to various sized tabets
 - Minimal hardware needed (no pcbs)
