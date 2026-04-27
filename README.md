@@ -5,18 +5,22 @@ Features
 - Adaptable to various sized tabets
 - Minimal hardware needed (no pcbs)
 - Very cheap to make
+- No screws required at all
 
 Material list
 - 30 AWG wire
 - 8 Low profile Kalih Red switches
-- rpi Pi Pico
+- rpi Pi Pico (I recommend getting a knockoff with usb-c preinstalled)
 - 3d printer filament of any color (I used transparent PETG)
 
-Things Required
-- Basic soldering skills (this was my first time soldering in a project)
-- 3d printer
+Notes
+- Basic soldering skills are needed (this was my first time soldering in a project)
+- a 3d printer is needed (preferibly with a print area of 220x220 or larger)
 - a working tablet that supports usb host mode (if not a OTG adapter will be required)
-- Most likely will need to modify some of my CAD files to make the mounting clips fit your tablet
+- Most likely will need to modify some of my CAD files to make the mounting clips fit your tablet 
+- i'll be honest this project is fundimentally super simple but i spent way too long trying to perfect as many things as i could. However, I am a student can do mediocre CAD at best so if you want to scale up/down the CAD files to fit your tabet size you **will** need to edit the slots for the switches and holes for hinges
+
+- if you dont know how to edit CAD files you can also contact my discord (invisble.) and subject to my avaiblity i might be able to help you
 
 The original design was made to perfectly fit my iPad Air (3rd generation)
 You will most likely have a differently sized device, and thus will need to modify my design files
@@ -31,6 +35,14 @@ Discord username - invisble.
 ## Disclaimer
 
 This is a personal project I did on my own time without any endorsement, i will continue to listen to feedback and potentially improve this project. I try my best to ensure everything is working and accurate. However, mistakes may occour I cannot be held responsible for any loss of your time or money that may result from using this project. Thank you for your understanding.
+
+
+# Build Guide
+
+Firstly we need to determine the size/play area of your tablet (mine is about 163mm) to do this open up AstroDX and load up a chart, then measure the diameter of the play circle. You may be able to adjust the play area size in settings to match mine in order to not need any CAD modifications
+<img width="1600" height="216" alt="playareasize" src="https://github.com/user-attachments/assets/7b787b46-7339-40ff-ac15-77d6b93edda4" />
+
+
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
