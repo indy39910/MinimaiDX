@@ -1,5 +1,5 @@
 # MinimaiDX
-8 Button AstroDX controller for tablet-sized devices using keyboard inputs
+###8 Button AstroDX controller for tablet-sized devices using keyboard inputs
 
 Features
 - Adaptable to various sized tabets
@@ -21,7 +21,16 @@ Things Required
 The original design was made to perfectly fit my iPad Air (3rd generation)
 You will most likely have a differently sized device, and thus will need to modify my design files
 
+##About the License
 
+It's CC-NC. So DIY for yourself and for your friend for free, don't make money from it. And plagiarism that doesn’t mention the original author is not acceptable.
+
+If you're interested in buying from me or some kind of commercial use, please contact me (Discord).
+Discord username - invisble.
+
+##Disclaimer
+
+This is a personal project I did on my own time without any endorsement, i will continue to listen to feedback and potentially improve this project. I try my best to ensure everything is working and accurate. However, mistakes may occour I cannot be held responsible for any loss of your time or money that may result from using this project. Thank you for your understanding.
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
