@@ -19,7 +19,7 @@ Features
 Material list
 - 30 AWG wire
 - 8 Low profile Kalih Red switches
-- rpi Pi Pico (I recommend getting a knockoff with usb-c preinstalled)
+- Raspberry Pi Pico (I recommend getting a knockoff with usb-c preinstalled)
 - 3d printer filament of any color (I used transparent PETG)
 
 Notes
