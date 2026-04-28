@@ -19,4 +19,12 @@ Assuming you want the wires to come out from the top (I reccomend either going w
 
 In total 8 pairs of wires will be needed with 4 pairs per side, you want to make sure that you can identify which pair of wires orginate from the same switch (I did this by pulling back the wire from the cable channel until I could see a pair have a visbly different length from the others). In each of the sides, each pair of wires will need to be linearly longer as more cable is needed to reach the Pi Pico (so for example the pair of wires closest to the designated hole lets say button1 that the wires will come out off will have the shortest wire and button4 will need the longest pair of wires)
 First start with soldering switches to the their respective wires
-make a wire pair of roughly the same length
+- make 4 sets of a pair of wires
+- recommened to tin the tip of the wires with solder before soldering it to the switch
+- solder the wires to the switches
+Now we add the switches to the shell
+- thread the wires into the cable channel
+- then insert the switches into the slot
+- now thread the wires through the little holes until you reach your exit point
+- repeat increasing wire length until all 4 buttons on that side are done
+Repeat again for all the buttons on the other side
